@@ -4,10 +4,10 @@ Welcome to Datum Brain's GitHub organization! We are a technology company specia
 
 ## What We Do
 
-- **AI and Machine Learning:** Innovative AI solutions that drive efficiency and insights.
-- **Custom Software Development:** Tailored solutions built to meet your unique business needs.
-- **Data Engineering:** Scalable and robust data pipelines for effective data management.
-- **Cloud Solutions:** Deployments and management on leading cloud platforms.
+- **AI and Machine Learning:** Innovative AI solutions that drive efficiency and insights
+- **Custom Software Development:** Tailored solutions built to meet your unique business needs
+- **Data Engineering:** Scalable and robust data pipelines for effective data management
+- **Cloud Solutions:** Deployments and management on leading cloud platforms
 
 ## Technologies We Use
 

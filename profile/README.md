@@ -8,6 +8,7 @@ Welcome to Datum Brain's GitHub organization! We are a technology company specia
 - **Custom Software Development:** Tailored solutions built to meet your unique business needs
 - **Data Engineering:** Scalable and robust data pipelines for effective data management
 - **Cloud Solutions:** Deployments and management on leading cloud platforms
+- **Fintech Solutions:** Years of development experience with EMIs and their integrations with SEPA, SWIFT, VISA, MasterCard and other payment gateways
 
 ## Technologies We Use
 
